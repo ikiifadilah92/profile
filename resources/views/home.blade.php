@@ -13,6 +13,4 @@
         </div>
 
     </div>
-
-    <div class="container mt--10 pb-5"></div>
 @endsection
